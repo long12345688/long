@@ -1,4 +1,5 @@
-//ÄæĞò×Ö·û´®ÄÚÈİ
+
+
 #include <stdio.h>
 fun(char* arr, int start, int end) {
 	if (start < end) {
